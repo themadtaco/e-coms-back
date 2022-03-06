@@ -13,7 +13,7 @@ Finish a e-commerce back end. This was done by taking a working express.js API a
 
 ![image](https://user-images.githubusercontent.com/52329597/156907880-02a42a5f-c8b2-425a-a0c0-46eba9482a37.png)
 
-* Video: https://drive.google.com/file/d/1098IXf4SzDHJMy9spLBYiIV7zp3EVUHx/view
+* Video: https://drive.google.com/file/d/1r-iWlCFTf1z65FczUVjF6kd3FpzuMFlX/view
 
 ## Contributions
 * Starter code from MSU Web Development Bootcamp
